@@ -9,3 +9,7 @@ end
 def first_element (indexing)
  indexing[0]
 end 
+
+def third_elemet (indexing)
+  indexing[2]
+end

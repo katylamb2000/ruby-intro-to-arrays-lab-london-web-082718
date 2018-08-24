@@ -13,3 +13,7 @@ end
 def third_element (indexing)
   indexing[2]
 end
+
+def last_element (indexing)
+  indexing.last
+end
